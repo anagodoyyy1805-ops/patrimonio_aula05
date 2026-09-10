@@ -74,4 +74,6 @@ Salvar as alterações no arquivo.
 ![foto4](./foto4)
 ![foto5](./foto5)
 ![foto6](./foto6)
+![foto7](./foto7)
+![foto8](./foto8)
 
