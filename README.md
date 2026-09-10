@@ -66,3 +66,12 @@ Atualizar registros;
 Excluir registros;
 Salvar as alterações no arquivo.
 
+## Evidências: 
+
+![foto1](./foto1)
+![foto2](./foto2)
+![foto3](./foto3)
+![foto4](./foto4)
+![foto5](./foto5)
+![foto6](./foto6)
+
