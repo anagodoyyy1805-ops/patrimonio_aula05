@@ -8,5 +8,7 @@ Os dados dos patrimônios são armazenados inicialmente no arquivo dados.json, q
 
 ## Tecnologias usadas
 
-*Node.js
-*JavaScript
+* Node.js
+* JavaScript
+* JSON
+* HTML
